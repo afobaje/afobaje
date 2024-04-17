@@ -7,9 +7,8 @@ Web developer, creative designer and technical writer
 I have been working on different projects and learning too. I also write what I learn to help others
 
 * 🌍  I'm based in Lagos
-* 🖥️  See my portfolio at [afobaje](http://afobajedev.netlify.app)
+* 🖥️  See my portfolio at [afobaje](http://empluy.vercel.app/afobaje)
 * ✉️  You can contact me at [ikukoyidave@gmail.com](mailto:ikukoyidave@gmail.com)
-* 🧠  I'm learning reactjs, node, webgl, javascript and mongodb
 * 🤝  I'm open to collaborating on Freelance, open source and full time jobs
 
 <a href="https://www.twitter.com/afobaje_" target="_blank" rel="noreferrer"><img
